@@ -100,7 +100,12 @@ footer{
 .navbar-brand:hover{
     transform: scale(1.07);
 }
-.card:hover{
-transform: scale(1.02);
-transition-duration: 0.5s;
+.main{
+    background-image: url('./images/86ffbfbc2b9a479db5b5dd7f90e06620.width-1020.format-webp.webp');
+    background-repeat: no-repeat;
+    background-size:100% 200px;
+    background-position: center;
+    background-attachment: fixed;
+    background-position: bottom;
+
 }
